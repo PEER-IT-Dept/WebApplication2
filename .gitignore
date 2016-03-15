@@ -1,0 +1,13 @@
+#Netbeans
+nbproject/
+build.xml
+web/META-INF/context.xml
+web/WEB-INF/log4j.properties
+
+build/web/META-INF/context.xml
+build/web/WEB-INF/log4j.properties
+build/web/WEB-INF/classes/.netbeans_update_resources
+build/web/WEB-INF/classes/.netbeans_automatic_build
+config/database.yml
+dist/*.war
+/build/
